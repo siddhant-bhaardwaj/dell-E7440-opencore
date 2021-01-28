@@ -1,12 +1,12 @@
 # dell-E7440-opencore
-opencore bootloder for dell E7440
+opencore bootloder for dell E7440👈👈👈👈
 
-simple make bootable pandrive and place my EFI
+simple make bootable pandrive and place my EFI🤏👍
 
-working everthing
+working everthing 😁
 
-expect intel wifi and trackpad
+expect intel wifi and trackpad😋
 
-gesture also working.
+gesture also working.😈
 
-tested on catalina 10.15.7
+tested on catalina 10.15.7😎
