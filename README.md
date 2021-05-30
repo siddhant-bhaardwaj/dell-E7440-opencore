@@ -9,4 +9,8 @@ expect intel wifi and trackpad😋
 
 gesture also working.😈
 
-tested on catalina 10.15.7😎 and big sur
+tested on maxos catalina 10.15.7😎 and big sur
+
+## screenshots
+
+
