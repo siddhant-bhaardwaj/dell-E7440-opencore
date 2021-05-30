@@ -2,12 +2,13 @@
 >opencore bootloder for dell E7444 i5
 
 ## how to use this 
->clone this repo and place my efi files over your efi file
+>**clone this repo and place my efi files over your efi file
 
->everthing is working fine :sunglasses:
+>**everthing is working fine :sunglasses:
 
->everthing means everything :cowboy_hat_face:
+>**everthing means everything :cowboy_hat_face:
 
+## tested on Big Sur and Catalina :ghost:
 
 ## Laptop specs
 > dell E7440 i5 4300U
