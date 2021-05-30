@@ -8,11 +8,12 @@ everthing means everything :cowboy_hat_face:
 
 
 ## Laptop specs
-> dell E7440 i5 4300U
+> '''
+dell E7440 i5 4300U
 Intel HD Graphics 4400
 8GB DDR3 RAM
 Intel wifi card :sunglasses:
-
+'''
 
 
 ## screenshots :smiling_imp:
