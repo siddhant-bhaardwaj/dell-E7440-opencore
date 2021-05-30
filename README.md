@@ -4,19 +4,19 @@
 ## how to use this 
 >clone this repo and place my efi files over your efi file
 
-everthing is working fine :sunglasses:
+>everthing is working fine :sunglasses:
 
-everthing means everything :cowboy_hat_face:
+>everthing means everything :cowboy_hat_face:
 
 
 ## Laptop specs
 > dell E7440 i5 4300U
 
-Intel HD Graphics 4400
+>Intel HD Graphics 4400
 
-8GB DDR3 RAM
+>8GB DDR3 RAM
 
-Intel wifi card :sunglasses:
+>Intel wifi card :sunglasses:
 
 
 
